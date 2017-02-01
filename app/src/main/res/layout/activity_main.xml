@@ -13,23 +13,10 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Branding and design to be determined"
-        android:textSize="25sp"/>
+        android:text="Hello World!" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
-
-    <Button
-        android:text="Start Searching Clinics"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/button"
-        android:onClick="startSearching"
-        android:background="@drawable/start_searching_design"
-        android:textColor="#ffffff"
-        android:padding="20dp"/>
-
+    
 </RelativeLayout>
